@@ -8,7 +8,7 @@ class ApiClient {
 
   //replace with your ApiKEY
   //get your key from app.tomorrow.io/development/keys
-  static const String apiKey = 'tpk3Eyyloes5xWTnlcW7uKiDBUO4OL3A';
+  static const String apiKey = 'YOUR_API_KEY';
 
   //pick a location to get the weather
   static const location = [40.758, -73.9855]; //New york 
