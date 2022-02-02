@@ -1,6 +1,8 @@
 # tomorrow_weather
 
-A new Flutter project.
+A simple weather application using Tomorrow.io Weather API.
+
+![app_screenshot](assets/ss1.jpg)
 
 ## Getting Started
 
